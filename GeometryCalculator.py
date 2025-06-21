@@ -16,9 +16,9 @@ if __name__ == "__main__":
 
 # TODO: Implement the feature to calculate the area of a circle
 
-# radius = 5
+    radius = 5
 
-# print(f"The area of the circle with radius {radius} ={calculator.calculate_circle_area(radius)}")
+    print(f"The area of the circle with radius {radius} ={calculator.calculate_circle_area(radius)}")
 
 # TODO: Implement the feature to calculate the area of a rectangle 
     length = 10
